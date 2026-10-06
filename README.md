@@ -8,3 +8,6 @@
 
 ## Finalidad del repositorio
 Este repositorio contiene el proyecto Maven desarrollado para demostrar el uso práctico de Git y GitHub: preparación del repositorio, control de cambios, staging, commits, gestión de ramas, merge, publicación, clonación y sincronización.
+
+## Evidencia T2
+Evaluación 02 del curso Lenguaje de Programación II, correspondiente al trabajo práctico de control de versiones con Git y GitHub.
