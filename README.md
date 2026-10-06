@@ -14,3 +14,7 @@ Evaluación 02 del curso Lenguaje de Programación II, correspondiente al trabaj
 
 ## Control de cambios
 Durante la evaluación se controlaron los cambios del README.md, pom.xml y observaciones.txt diferenciando el Working Directory del Staging Area y conservando únicamente los cambios válidos.
+
+## Gestión de ramas
+- **Rama utilizada:** `feature-lopez`
+- **Cambio desarrollado:** incorporación de la clase `ControlVersion_Lopez.java`, creada de forma independiente y posteriormente integrada mediante `merge` a `main`.
