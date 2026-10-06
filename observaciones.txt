@@ -1,0 +1,1 @@
+Evaluación 02: se verificó el control selectivo de cambios entre Working Directory y Staging Area.

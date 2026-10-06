@@ -11,3 +11,6 @@ Este repositorio contiene el proyecto Maven desarrollado para demostrar el uso p
 
 ## Evidencia T2
 Evaluación 02 del curso Lenguaje de Programación II, correspondiente al trabajo práctico de control de versiones con Git y GitHub.
+
+## Control de cambios
+Durante la evaluación se controlaron los cambios del README.md, pom.xml y observaciones.txt diferenciando el Working Directory del Staging Area y conservando únicamente los cambios válidos.
