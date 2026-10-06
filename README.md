@@ -1,0 +1,10 @@
+# T2_Lopez_Chavez
+
+## Datos del estudiante
+- **Nombre completo:** Jean Pierre Lopez Chavez
+- **Curso:** Lenguaje de Programación II
+- **Evaluación:** Evaluación 02
+- **Proyecto:** T2_Lopez_Chavez
+
+## Finalidad del repositorio
+Este repositorio contiene el proyecto Maven desarrollado para demostrar el uso práctico de Git y GitHub: preparación del repositorio, control de cambios, staging, commits, gestión de ramas, merge, publicación, clonación y sincronización.
