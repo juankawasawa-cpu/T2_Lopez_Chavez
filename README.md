@@ -18,3 +18,6 @@ Durante la evaluación se controlaron los cambios del README.md, pom.xml y obser
 ## Gestión de ramas
 - **Rama utilizada:** `feature-lopez`
 - **Cambio desarrollado:** incorporación de la clase `ControlVersion_Lopez.java`, creada de forma independiente y posteriormente integrada mediante `merge` a `main`.
+
+### Control de cambios - repaso del flujo
+Se practico el flujo Working Directory, Staging Area y commit con README.md, pom.xml y observaciones.txt.

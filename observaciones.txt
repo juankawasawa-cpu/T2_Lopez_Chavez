@@ -1,1 +1,2 @@
 Evaluación 02: se verificó el control selectivo de cambios entre Working Directory y Staging Area.
+Repaso Evaluacion 02: cambios gestionados con git add, reset, restore y commit.
