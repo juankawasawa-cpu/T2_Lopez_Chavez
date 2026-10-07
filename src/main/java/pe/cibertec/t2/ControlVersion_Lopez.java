@@ -8,4 +8,8 @@ public class ControlVersion_Lopez {
         System.out.println("Jean Pierre Lopez Chavez");
         System.out.println("Funcionalidad desarrollada desde la rama independiente feature-lopez.");
     }
+
+    public static void mostrarRama() {
+        System.out.println("Metodo agregado desde la rama feature-lopez en el repaso de la evaluacion.");
+    }
 }
